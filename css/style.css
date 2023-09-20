@@ -46,3 +46,29 @@
   width: 75%;
   margin: auto;
 }
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.title-table {
+  text-align: left;
+  background-color: #238aff;
+  color: white;
+  height: 5px;
+}
+
+.td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  height: 50px;
+}
+
+.tr {
+  background-color: #4ea0ff;
+  height: 50px;
+}
