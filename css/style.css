@@ -39,6 +39,9 @@
   margin-right: auto;
   width: 46%;
 }
+.highlighted {
+  background-color: #e5ff00;
+}
 .site_main {
   width: 75%;
   margin: auto;
