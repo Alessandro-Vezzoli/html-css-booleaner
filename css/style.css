@@ -29,6 +29,16 @@
 .text-color {
   color: #4ea0ff;
 }
+.img1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 53%;
+}
+.img2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 46%;
+}
 .site_main {
   width: 75%;
   margin: auto;
